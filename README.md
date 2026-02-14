@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/assets/header.png" />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=I'm%20Kaniza%20Kasfia&fontSize=50&fontColor=8965b1&fontAlignY=65" /> 
+ 
   
 </p>
 
