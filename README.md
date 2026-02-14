@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanizadev&color=453269&style=for-the-badge" />
   <h3 align="justify">Hi, I’m Niharika </h3>
   <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/assets/div (2).png">
 </p>
