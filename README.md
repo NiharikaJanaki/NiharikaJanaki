@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/render?type=waving&color=7B68EE&height=200&section=header&text=I'm%20Niharika&fontSize=70&animation=fadeIn&fontColor=ffffff" />
 
 <!-- Profile Views -->
-![Views](https://komarev.com/ghpvc/?username=niharika-username&color=7B68EE&style=flat-square&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=NiharikaJanaki&color=7B68EE&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
@@ -25,8 +25,8 @@ I am a passionate learner currently exploring the world of programming. I enjoy 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=niharika-username&show_icons=true&theme=radical&hide_border=true&title_color=7B68EE&icon_color=7B68EE" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharika-username&layout=compact&theme=radical&hide_border=true&title_color=7B68EE" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NiharikaJanaki&show_icons=true&theme=radical&hide_border=true&title_color=7B68EE&icon_color=7B68EE" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharikaJanaki&layout=compact&theme=radical&hide_border=true&title_color=7B68EE" />
 </p>
 
 ---
