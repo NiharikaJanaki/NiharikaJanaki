@@ -38,19 +38,6 @@ Right now, I'm building a strong foundation in **C** and **Python**, and I'm esp
 
 ---
 
-### 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiharikaJanaki&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Janaki's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharikaJanaki&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiharikaJanaki&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🤝 Connect with me!
 
 <p align="left">
@@ -63,7 +50,3 @@ Right now, I'm building a strong foundation in **C** and **Python**, and I'm esp
 </p>
 
 ---
-<p align="center">
-  <i>"The best way to predict the future is to invent it."</i><br>
-  <b>Happy Coding! 🚀</b>
-</p>
