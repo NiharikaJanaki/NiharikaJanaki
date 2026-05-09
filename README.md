@@ -1,7 +1,8 @@
 # 🌟 Welcome to my Digital Garden! 🌿
 
+
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=33&pause=1000&color=2BA743&width=435&lines=Hi%2CIm+Janaki+Niharika!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=40&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+Im+Niharika!" alt="Typing SVG" /></a>
 </p>
 
 ---
