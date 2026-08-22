@@ -8,11 +8,11 @@
 
 ### ★About Me★
 
-Hey there! I'm a passionate **Computer Science student** currently in my **second semester**. I'm absolutely hooked on the magic of turning logic into code! 
+Hey there! I'm a passionate **Computer Science student** currently in my **third semester**. I'm absolutely hooked on the magic of turning logic into code! 
 
 Right now, I'm building a strong foundation in **C** and **Python**, and I'm especially excited about the world of **Data Science**. I love how a few lines of code and libraries like **Pandas** and **Matplotlib** can turn raw data into beautiful, insightful stories! 
 
--  **Currently studying:** Computer Science (2nd Sem)
+-  **Currently studying:** Computer Science (3rd Sem)
 -  **I’m currently working on:** Sharpening my problem-solving skills and building cool Python scripts.
 -  **Learning:** Advanced data manipulation and system-level programming.
 -  **Fun fact:** I love the thrill of manual memory management in C as much as the elegance of a Python one-liner!
